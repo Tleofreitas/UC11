@@ -1,0 +1,24 @@
+Teste realizado: abrir o site no navegador.
+Resultado do teste: o sistema funcionou corretamente, carregando a página com as informações.
+
+Teste realizado: clicar nas opções de "categoria".
+Resultado do teste:
+- As opções "Playstation", "Xbox" e "Nintendo" funcionaram corretamente, carregando a página com as informações instantaneamente.
+- A opção "Retrô" não retornou nenhuma informação. Verificar esta funcionalidade.
+
+Teste realizado: clicar nos logos.
+Resultado do teste: o sistema funcionou corretamente, redirecionando para a Home Page.
+
+Teste realizado: realizar uma busca pela palavra "God of War".
+Resultado do teste: a função de pesquisa não retornou nenhum resultado. Verificar esta funcionalidade.
+
+Teste realizado: clicar nas opções de "redes sociais".
+Resultado do teste:
+- As opções "Facebook" e "Instagram" funcionaram corretamente, carregando a página com as informações em uma nova janela
+- A opção "WhatsApp" não retornou nenhuma informação. Verificar esta funcionalidade.
+
+Teste realizado: clicar no carrinho e realizar os testes de login.
+Resultado do teste:
+- O não preenchimento de senha retornou o aviso "Email and password are required".
+- A senha errada retornou o aviso "Incorrect password".
+- A senha correta efetuou o login do usuário e redirecionou para a página Home Page.
